@@ -1,0 +1,8 @@
+1. run the run_test.sh
+2. I have choose an pyspark because
+   a. PySpark is a great language that caters all your needs. 
+   Whether you want to build Machine Learning pipelines or creating ETLs for a data platform and PySpark is the best medium to learn in order to create more scalable analyses and pipelines. 
+   The main objective of this post is to give you an overview of how to get up and running with PySpark and to perform common task
+   b. its main benfits of In-Memory Computation,Swift Processing,Dynamic in Nature,Fault Tolerance,Real time & batch processing.
+3.No ,only Pyspark
+4.I will verify it data loaded in Database to check the data have linkage correctly between dim to fact as per the Pyshical model & business needs, i will use sql Query.
